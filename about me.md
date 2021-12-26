@@ -32,7 +32,10 @@ Education voluenteer for middle school and high school students who are sufferin
 [Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
   - Academic Excellent Scholarship (2017 Spring)
   - Dean's List (2021 Fall)
-  - Took Financial Management, Corporate Finance, Behavioral Finance and Fintech, Investments, Derivative Securities and Risk Managements, Current Topics in Finance: Hedge Fund and Data Science
+  - Took 
+    - Financial Management, Corporate Finance, Investments
+    - Behavioral Finance & Fintech, Derivative Securities and Risk Managements
+    - International Finance, Current Topics in Finance: Hedge Fund and Data Science
   - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
 
 
