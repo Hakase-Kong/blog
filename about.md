@@ -4,6 +4,9 @@ title: About me
 permalink: /about/
 ---
 
+Nominated as Power Intellectual on Mathmatics 10th (2013)
+  - https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D
+
 Graduated Haneul Academy 4th (2016)
   - http://haneul.hs.kr/
 
