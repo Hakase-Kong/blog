@@ -6,7 +6,6 @@ avatar: /100324이찬빈_1.jpg
 email: piscu@g.skku.edu
 location:
 skin:
-lang: en
 date_format:
 subscribe:
 
@@ -41,3 +40,4 @@ social: GitHub
 title: Naver
   url: https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D
 google_site_verification: 
+lang: en
