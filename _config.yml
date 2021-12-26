@@ -1,8 +1,15 @@
 title: Quantitive Analysis for Trading
+
 description: Studying algebra as well as trading strategy
 author: Hakase Kong
 avatar: /100324이찬빈_1.jpg
 email: piscu@g.skku.edu
+location:
+skin:
+lang: en
+paginate:
+date_format:
+subscribe:
 
 plugins:
   - jekyll-seo-tag
@@ -14,11 +21,11 @@ paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
-# google_analytics: 
+google_analytics: 
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 # 
-# disqus:
+disqus:
 
 # Jekyll
 # ======
@@ -42,4 +49,3 @@ social: GitHub
 title: Naver
   url: https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D
 google_site_verification: 
-lang: en
