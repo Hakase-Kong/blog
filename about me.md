@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
+permalink: /about me/
 ---
 
 Nominated as Power Intellectual on Mathmatics 10th (2013)
