@@ -1,6 +1,6 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+- title: Facebook
+  url: https://www.facebook.com/profile.php?id=100004203463718
+  icon: fab fa-facebook
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://hakase-kong.github/
   icon: fab fa-github
