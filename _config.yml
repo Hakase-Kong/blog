@@ -35,8 +35,7 @@ facebook:
 logo: logo.png
 instagram:
   name: Chanbin Lee
-  links:
-    - https://instagram.com/b2_nii
+  links: https://instagram.com/b2_nii
 social: GitHub
   url: https://github.com/Hakase-Kong/Hakase-Kong
 title: Naver
