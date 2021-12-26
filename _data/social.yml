@@ -9,4 +9,7 @@
   icon: fab fa-github
 - title: Naver
   url: https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D
-  icon: fab fa-neos
+  icon: fas fa-neos
+- title: Sungkyunkwan
+  url: https://www.skku.edu/skku/index.do
+  icon: fas fa-user-graduate
