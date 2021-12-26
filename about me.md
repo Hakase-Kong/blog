@@ -32,7 +32,8 @@ Education voluenteer for middle school and high school students who are sufferin
 [Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
   - Academic Excellent Scholarship (2017 Spring)
   - Dean's List (2021 Fall)
-  - Took Financial Management, Corporate Finance, Behavioral Finance and Fintech, Investments, Derivative Securities and Risk Managements, Current Topics in Finance: Hedge Fund and Data Science, Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
+  - Took Financial Management, Corporate Finance, Behavioral Finance and Fintech, Investments, Derivative Securities and Risk Managements, Current Topics in Finance: Hedge Fund and Data Science
+  - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
 
 
 TOEIC 940 (Oct. 2018) - Expired
@@ -43,7 +44,7 @@ Volunteered Hours: 109 hours in total (2017-2021)
 
 [(Integrative Core) Samsung Electronics Business Analysis Report (2021)](https://drive.google.com/drive/u/0/folders/19zeUHOzvNOISdvsLMdS434SoXj4rX0VE)
   - [Presentation](https://www.youtube.com/watch?v=nhrtQ1xjOwE)
-  - Marketing, Operation Managements, Corporate Finance, Strategic Management
+  - [Marketing, Operation Managements, Corporate Finance, Strategic Management](https://drive.google.com/drive/u/0/folders/10feEOF8-VsTsIQiJUbDFuNO35d6eDvgF)
   - Won 1st place in Corporate Finance Analysis among 22 groups (Prof. Jong-min Oh)
 
 [(Relative valuation) Kakao Bank Investment Report (2021)](https://drive.google.com/drive/u/0/folders/1O006oz5F_EOWeHdeWF4KecSSBMoK2oFD)
