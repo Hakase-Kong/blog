@@ -15,28 +15,13 @@ plugins:
   - jekyll-paginate
   
 paginate: 10
-# google_analytics: 10
-# disqus: 10
+google_analytics:
+disqus:
 
-# Jekyll
-# ======
 exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-# Jekyll SEO Tag
-# =========================
-facebook:
-  username: Chanbin Lee
-  card: summary
-logo: logo.png
-instagram:
-  name: Chanbin Lee
-  links: https://instagram.com/b2_nii
-social: GitHub
-  url: https://github.com/Hakase-Kong/Hakase-Kong
-title: Naver
-  url: https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D
 google_site_verification: 
 lang: en
