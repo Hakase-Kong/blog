@@ -1,0 +1,15 @@
+---
+
+layout: post
+
+title: Testing
+
+---
+
+
+I'm Chanbin with GitHub pages.
+
+```java
+String str = "testing";
+System.out.printin(str);
+```
