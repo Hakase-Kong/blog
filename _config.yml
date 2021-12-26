@@ -4,10 +4,10 @@ description: Studying algebra as well as trading strategy
 author: Hakase Kong
 avatar: /100324이찬빈_1.jpg
 email: piscu@g.skku.edu
-location:
-skin:
-date_format:
-subscribe:
+location: 10
+skin: 10
+date_format: 10
+subscribe: 10
 
 plugins:
   - jekyll-seo-tag
