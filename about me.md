@@ -17,9 +17,7 @@ permalink: /about me/
   - [[Bachelor] Global Business Administration (GBA)](https://globalbiz.skku.edu/gba/index.do)
  
 [Served Military Service at Republic of Korean Army (Apr. 2019 - Nov. 2020)](https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%84%EA%B8%B0%EA%B3%84%ED%99%94%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8)
-  - The Capital Mechanized Infantry Devision
-  - The 1st Mechanized Infantry Brigade
-  - Supply Manager
+  - The Capital Mechanized Infantry Devision The 1st Mechanized Infantry Brigade
 
 [Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
   - Academic Excellent Scholarship (2017 Spring)
