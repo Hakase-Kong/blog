@@ -4,6 +4,10 @@ title: About me
 permalink: /about me/
 ---
 
+韓國語文會 漢字能力檢定試驗 國家公認 3級 (2007) [36-654-0030]
+韓國語文會 漢字能力檢定試驗 國家公認 2級 (2010) [47-387-0001]
+  - [17會 蘭汀奬學生 授與](https://www.hanja.re.kr/)
+
 [Nominated as Power Intellectual on Mathmatics 10th (2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
 
 [Graduated Haneul Academy 4th (2016)](http://haneul.hs.kr/)
@@ -17,3 +21,5 @@ permalink: /about me/
   - Supply Manager
 
 [Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
+  - Academic Excellent Scholarship (2017 Spring)
+  - Dean's List (2021 Fall)
