@@ -20,15 +20,24 @@ Passed TESAT (Mar. 2016) - Expired
 [Entered Sungkyunkwan University (2017)](https://www.skku.edu/skku/index.do)
   - [[Bachelor] Global Business Administration (GBA)](https://globalbiz.skku.edu/gba/index.do)
 
+Translator of Special Olympics Abudabi 2019 (2019)
+  - Voluenteered for translating the guidelines of each sport manual for athletes and coaches
+
 [Served Military Service at Republic of Korean Army (Apr. 2019 - Nov. 2020)](https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%84%EA%B8%B0%EA%B3%84%ED%99%94%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8)
   - The Capital Mechanized Infantry Devision, The 1st Mechanized Infantry Brigade
+
+Education voluenteer for middle school and high school students who are suffering from COVID-19 (2020)
+  - Naver 지식인
 
 [Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
   - Academic Excellent Scholarship (2017 Spring)
   - Dean's List (2021 Fall)
+  - Took Financial Management, Corporate Finance, Behavioral Finance and Fintech, Investments, Derivative Securities and Risk Managements, Current Topics in Finance: Hedge Fund and Data Science, Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
+
 
 TOEIC 940 (Oct. 2018) - Expired
 
+Volunteered Hours: 109 hours in total (2017-2021)
 
 ==Project==
 
@@ -40,7 +49,6 @@ TOEIC 940 (Oct. 2018) - Expired
 [(Relative valuation) Kakao Bank Investment Report (2021)](https://drive.google.com/drive/u/0/folders/1O006oz5F_EOWeHdeWF4KecSSBMoK2oFD)
   - [Presentation](https://www.youtube.com/watch?v=kCV5_G1Vxtc&t=312s)
 
-
 [(Hedge Fund Strategy) Value + Quality Factor Portfolio Backtesting & Presentation (R, Rstudio) (2021)](https://drive.google.com/drive/u/0/folders/1PsEXcAm_yrG16w4E-D1qg0pO9kFqPyzX)
   - Factor: NCAV/BV, Net-Ic/BV, GPA/BV (5, 10, 20, 70 years backtesting)
 
@@ -49,4 +57,4 @@ GPA: 4.01/4.5(Total), 4.11/4.5(Major)
 Now Studying
 
 R(Rstudio)
-Python(Anaconda, Jupyter)
+, Python(Anaconda, Jupyter)
