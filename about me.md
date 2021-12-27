@@ -4,6 +4,7 @@ title: About me
 permalink: /about me/
 ---
 
+
 ==Certification==
 [National Certified Chinese Characters Level Tests](https://www.hanja.re.kr/)
   - 韓國語文會 漢字能力檢定試驗 國家公認 3級 (2007) [36-654-0030]
@@ -62,6 +63,7 @@ Education voluenteer for middle school and high school students who are sufferin
   - Factor: NCAV/BV, Net-Ic/BV, GPA/BV (5, 10, 20, 70 years backtesting)
 
 GPA: 4.01/4.5(Total), 4.11/4.5(Major)
+
 
 ==Now Studying==
 
