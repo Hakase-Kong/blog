@@ -4,6 +4,7 @@ title: About me
 permalink: /about me/
 ---
 
+==Certification==
 [National Certified Chinese Characters Level Tests](https://www.hanja.re.kr/)
   - 韓國語文會 漢字能力檢定試驗 國家公認 3級 (2007) [36-654-0030]
   - 韓國語文會 漢字能力檢定試驗 國家公認 2級 (2010) [47-387-0001]
@@ -15,10 +16,28 @@ Passed MaeKyung Test (Feb. 2016) [MK32-3182897] - Expired
 
 Passed TESAT (Mar. 2016) - Expired
 
+TOEIC 940 (Oct. 2018) - Expired
+
+
+
+==Education==
+
 [Graduated Haneul Academy 4th (2016)](http://haneul.hs.kr/)
 
 [Entered Sungkyunkwan University (2017)](https://www.skku.edu/skku/index.do)
   - [[Bachelor] Global Business Administration (GBA)](https://globalbiz.skku.edu/gba/index.do)
+
+[Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
+  - Academic Excellent Scholarship (2017 Spring)
+  - Dean's List (2021 Fall)
+  - Course taken
+    - Financial Management, Corporate Finance, Investments
+    - Behavioral Finance & Fintech, Derivative Securities and Risk Managements
+    - International Finance, Current Topics in Finance: Hedge Fund and Data Science
+    - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
+
+
+==Volunteering== (109 hours in total (2017-2021))
 
 Translator of Special Olympics Abudabi 2019 (2019)
   - Voluenteered for translating the guidelines of each sport manual for athletes and coaches
@@ -27,21 +46,7 @@ Translator of Special Olympics Abudabi 2019 (2019)
   - The Capital Mechanized Infantry Devision, The 1st Mechanized Infantry Brigade
 
 Education voluenteer for middle school and high school students who are suffering from COVID-19 (2020)
-  - Naver 지식인
 
-[Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
-  - Academic Excellent Scholarship (2017 Spring)
-  - Dean's List (2021 Fall)
-  - Took 
-    - Financial Management, Corporate Finance, Investments
-    - Behavioral Finance & Fintech, Derivative Securities and Risk Managements
-    - International Finance, Current Topics in Finance: Hedge Fund and Data Science
-  - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
-
-
-TOEIC 940 (Oct. 2018) - Expired
-
-Volunteered Hours: 109 hours in total (2017-2021)
 
 ==Project==
 
@@ -58,7 +63,8 @@ Volunteered Hours: 109 hours in total (2017-2021)
 
 GPA: 4.01/4.5(Total), 4.11/4.5(Major)
 
-Now Studying
+==Now Studying==
 
 R(Rstudio)
-, Python(Anaconda, Jupyter)
+
+Python(Anaconda, Jupyter)
