@@ -20,7 +20,8 @@ Passed TESAT (Mar. 2016) - Expired
 
 TOEIC 940 (Oct. 2018) - Expired
 
-\n
+
+
 
 ==Education==
 
@@ -38,7 +39,8 @@ TOEIC 940 (Oct. 2018) - Expired
     - International Finance, Current Topics in Finance: Hedge Fund and Data Science
     - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
 
-\n
+
+
 
 ==Volunteering== (109 hours in total (2017-2021))
 
@@ -50,7 +52,8 @@ Translator of Special Olympics Abudabi 2019 (2019)
 
 Education voluenteer for middle school and high school students who are suffering from COVID-19 (2020)
 
-\n
+
+
 
 ==Project==
 
@@ -67,7 +70,8 @@ Education voluenteer for middle school and high school students who are sufferin
 
 GPA: 4.01/4.5(Total), 4.11/4.5(Major)
 
-\n
+
+
 
 ==Now Studying==
 
