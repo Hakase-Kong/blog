@@ -10,7 +10,7 @@ permalink: /about me/
 [National Certified Chinese Characters Level Tests](https://www.hanja.re.kr/)
   - 韓國語文會 漢字能力檢定試驗 國家公認 3級 (2007) [36-654-0030]
   - 韓國語文會 漢字能力檢定試驗 國家公認 2級 (2010) [47-387-0001]
-    - 17會 蘭汀奬學生 授與 (2級)
+    - 第 17會 蘭汀奬學生 (2級)
 
 [Nominated as Power Intellectual on Mathmatics 10th (2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
 
@@ -20,7 +20,7 @@ Passed TESAT (Mar. 2016) - Expired
 
 TOEIC 940 (Oct. 2018) - Expired
 
-
+\n
 
 ==Education==
 
@@ -38,6 +38,7 @@ TOEIC 940 (Oct. 2018) - Expired
     - International Finance, Current Topics in Finance: Hedge Fund and Data Science
     - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
 
+\n
 
 ==Volunteering== (109 hours in total (2017-2021))
 
@@ -49,6 +50,7 @@ Translator of Special Olympics Abudabi 2019 (2019)
 
 Education voluenteer for middle school and high school students who are suffering from COVID-19 (2020)
 
+\n
 
 ==Project==
 
@@ -65,6 +67,7 @@ Education voluenteer for middle school and high school students who are sufferin
 
 GPA: 4.01/4.5(Total), 4.11/4.5(Major)
 
+\n
 
 ==Now Studying==
 
