@@ -75,6 +75,6 @@ GPA: 4.01/4.5(Total), 4.11/4.5(Major)
 
 ==Now Studying==
 
-R(Rstudio)
+[R(Rstudio)](https://www.rstudio.com/)
 
-Python(Anaconda, Jupyter)
+[Python(Anaconda, Jupyter)](https://www.python.org/)
