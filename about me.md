@@ -42,7 +42,7 @@ TOEIC 940 (Oct. 2018) - Expired
 
 
 
-==Volunteering== (109 hours in total (2017-2021))
+==Volunteering== (111 hours in total (2017-2021))
 
 Translator of Special Olympics Abudabi 2019 (2019)
   - Voluenteered for translating the guidelines of each sport manual for athletes and coaches
