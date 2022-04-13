@@ -32,7 +32,7 @@ TOEIC 940 (Oct. 2018) - Expired
 
 [Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
   - Academic Excellent Scholarship (2017 Spring)
-  - Dean's List (2021 Fall)
+  - Academic Excellent Scholarship (2021 Fall)
   - Course taken
     - Financial Management, Corporate Finance, Investments
     - Behavioral Finance & Fintech, Derivative Securities and Risk Managements
