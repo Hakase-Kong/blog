@@ -22,7 +22,6 @@ TOEIC 940 (Oct. 2018) - Expired
 
 &nbsp;
 
-
 == Education ==
 
 [Graduated Haneul Academy 4th (2016)](http://haneul.hs.kr/)
@@ -38,9 +37,8 @@ TOEIC 940 (Oct. 2018) - Expired
     - Behavioral Finance & Fintech, Derivative Securities and Risk Managements
     - International Finance, Current Topics in Finance: Hedge Fund and Data Science
     - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
+
 &nbsp;
-
-
 
 == Volunteering == (111 hours in total (2017-2021))
 
@@ -51,9 +49,8 @@ TOEIC 940 (Oct. 2018) - Expired
   - The Capital Mechanized Infantry Devision, The 1st Mechanized Infantry Brigade
 
 Education voluenteer for middle school and high school students who are suffering from COVID-19 (2020)
+
 &nbsp;
-
-
 
 == Project ==
 
@@ -74,9 +71,8 @@ Education voluenteer for middle school and high school students who are sufferin
 
 
 GPA: 4.01/4.5(Total), 4.11/4.5(Major)
+
 &nbsp;
-
-
 
 == Now Studying ==
 
