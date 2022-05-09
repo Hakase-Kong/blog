@@ -5,7 +5,7 @@ permalink: /about me/
 ---
 
 
-==Certification==
+== Certification ==
 
 [National Certified Chinese Characters Level Tests](https://www.hanja.re.kr/)
   - 韓國語文會 漢字能力檢定試驗 國家公認 3級 (2007) [36-654-0030]
@@ -20,10 +20,10 @@ Passed TESAT (Mar. 2016) - Expired
 
 TOEIC 940 (Oct. 2018) - Expired
 
+&nbsp;
 
 
-
-==Education==
+== Education ==
 
 [Graduated Haneul Academy 4th (2016)](http://haneul.hs.kr/)
 
@@ -38,11 +38,11 @@ TOEIC 940 (Oct. 2018) - Expired
     - Behavioral Finance & Fintech, Derivative Securities and Risk Managements
     - International Finance, Current Topics in Finance: Hedge Fund and Data Science
     - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
+&nbsp;
 
 
 
-
-==Volunteering== (111 hours in total (2017-2021))
+== Volunteering == (111 hours in total (2017-2021))
 
 [Translator of Special Olympics Abudabi 2019 (2019)](https://www.abudhabi2019.org/)
   - Voluenteered for translating the guidelines of each sport manual for athletes and coaches
@@ -51,11 +51,11 @@ TOEIC 940 (Oct. 2018) - Expired
   - The Capital Mechanized Infantry Devision, The 1st Mechanized Infantry Brigade
 
 Education voluenteer for middle school and high school students who are suffering from COVID-19 (2020)
+&nbsp;
 
 
 
-
-==Project==
+== Project ==
 
 [(Integrative Core) Samsung Electronics Business Analysis Report (2021)](https://drive.google.com/drive/u/0/folders/19zeUHOzvNOISdvsLMdS434SoXj4rX0VE)
   - [Presentation](https://www.youtube.com/watch?v=nhrtQ1xjOwE)
@@ -68,12 +68,17 @@ Education voluenteer for middle school and high school students who are sufferin
 [(Hedge Fund Strategy) Value + Quality Factor Portfolio Backtesting & Presentation (R, Rstudio) (2021)](https://drive.google.com/drive/u/0/folders/1PsEXcAm_yrG16w4E-D1qg0pO9kFqPyzX)
   - Factor: NCAV/BV, Net-Ic/BV, GPA/BV (5, 10, 20, 70 years backtesting)
 
+[(DB GAPS) Constructing Portfolio (2022)](https://drive.google.com/drive/u/0/folders/11TYBuM-2Ux8GH6Aemz3ZLDWSqBbE_LMH)
+  - Using R, Rstudio
+  - Progressing...
+
+
 GPA: 4.01/4.5(Total), 4.11/4.5(Major)
+&nbsp;
 
 
 
-
-==Now Studying==
+== Now Studying ==
 
 [R(Rstudio)](https://www.rstudio.com/)
 
