@@ -69,6 +69,9 @@ Education voluenteer for middle school and high school students who are sufferin
   - Using R, Rstudio
   - Progressing...
 
+[(SKKU QUANT) Constructing Portfolio (2022)](https://drive.google.com/drive/folders/18ilsb7fdws-Q0qXKND9h3XafL3kLyRhy?usp=sharing)
+  - Using R, Rstudio
+  - Progressing...
 
 GPA: 4.01/4.5(Total), 4.11/4.5(Major)
 
