@@ -22,9 +22,9 @@ permalink: /about me/
 
 [TOEIC 940 (Oct. 2018) - Expired](https://www.toeic.co.kr/)
 
-[Certified Research Analyst (Jul. 2022)](https://license.kofia.or.kr/) [22-011910]
+[Certified Research Analyst (20th, Jul. 2022)](https://license.kofia.or.kr/) [22-011910]
 
-[Certified Financial Risk Manager (Aug. 2022)](https://license.kofia.or.kr/)
+[Certified Financial Risk Manager (14th, Aug. 2022)](https://license.kofia.or.kr/)
 
 [Chartered Financial Analyst Level 1 Candidate (2023)](https://www.cfainstitute.org/?frmLogin=1)
   - Expected to take an exam on Feb 2023
