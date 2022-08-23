@@ -20,6 +20,12 @@ Passed TESAT (Mar. 2016) - Expired
 
 TOEIC 940 (Oct. 2018) - Expired
 
+[Certified Research Analyst (Jul. 2022)](https://license.kofia.or.kr/) [22-011910]
+
+[Certified Financial Risk Manager (Aug. 2022)](https://license.kofia.or.kr/)
+
+Chartered Financial Analyst Level 1 Candidate (2023) - Expected to take an exam on Feb 2023
+
 &nbsp;
 
 == Education ==
@@ -73,17 +79,12 @@ Education voluenteer for middle school and high school students who are sufferin
 
 [(SKKU QUANT) Constructing Portfolio (2022)](https://drive.google.com/drive/folders/18ilsb7fdws-Q0qXKND9h3XafL3kLyRhy?usp=sharing)
   - Using R, Rstudio
-  - Progressing...
 
 [(FSI Data Challenge 2022) Segmentizing the customer and constucting portfolios using bigdata (2022)]([https://drive.google.com/drive/u/0/folders/1XfwEQlRH6Tqhq2q4b8AxKOE4SW-CJV9I])
   - Using R, Rstudio
-  - Progressing...
+  - Passed a preliminary contest and now waiting for the result
 
-[(Kiwoom Mock Trading) Becoming a heart of beast (2022)]([https://drive.google.com/drive/u/0/folders/1-azwvLr9OWRlIuBv4mUNhyiv5DZAJvcP])
-  - Using R, Rstudio
-  - Progressing...
-
-GPA: 4.01/4.5(Total), 4.11/4.5(Major)
+GPA: 4.01/4.5(Total), 4.1/4.5(Major)
 
 &nbsp;
 
