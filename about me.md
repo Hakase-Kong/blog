@@ -12,7 +12,7 @@ permalink: /about me/
   - 韓國語文會 漢字能力檢定試驗 國家公認 2級 (2010) [47-387-0001]
     - 第 17會 蘭汀奬學生 (2級)
 
-[Nominated as Power Intellectual on Mathmatics 10th (2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
+[Nominated as Power Intellectual on Mathmatics (10th, 2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
 
 [Passed Teen-Maekyung Test (14th, May. 2015) - Expired](https://exam.mk.co.kr/)
 
