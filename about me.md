@@ -73,7 +73,7 @@ Education voluenteer for middle school and high school students who are sufferin
 [(Relative valuation) Kakao Bank Investment Report (2021)](https://drive.google.com/drive/u/0/folders/1O006oz5F_EOWeHdeWF4KecSSBMoK2oFD)
   - [Presentation](https://www.youtube.com/watch?v=kCV5_G1Vxtc&t=312s)
 
-[(Hedge Fund Strategy) Value + Quality Factor Portfolio Backtesting & Presentation (R, Rstudio) (2021)](https://drive.google.com/drive/u/0/folders/1PsEXcAm_yrG16w4E-D1qg0pO9kFqPyzX)
+[(Hedge Fund Strategy) Value + Quality Factor Portfolio Backtesting & Presentation (R, Rstudio) (2021)](https://drive.google.com/drive/folders/14Z-Hm9qNJoXK75Q2n1eGCQvT5DNJ-suw?usp=sharing)
   - Factor: NCAV/BV, Net-Ic/BV, GPA/BV (5, 10, 20, 70 years backtesting)
 
 [(DB GAPS) Constructing Portfolio (2022)](https://gaps.dbfoundation.or.kr/)
