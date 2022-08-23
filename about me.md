@@ -14,11 +14,13 @@ permalink: /about me/
 
 [Nominated as Power Intellectual on Mathmatics 10th (2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
 
-Passed MaeKyung Test (Feb. 2016) [MK32-3182897] - Expired
+[Passed Teen-Maekyung Test (14th, May. 2015) - Expired](https://exam.mk.co.kr/)
 
-Passed TESAT (Mar. 2016) - Expired
+[Passed MaeKyung Test (32nd, Feb. 2016) [MK32-3182897] - Expired](https://exam.mk.co.kr/)
 
-TOEIC 940 (Oct. 2018) - Expired
+[Passed TESAT (Mar. 2016) - Expired](http://www.tesat.or.kr/)
+
+[TOEIC 940 (Oct. 2018) - Expired](https://www.toeic.co.kr/)
 
 [Certified Research Analyst (Jul. 2022)](https://license.kofia.or.kr/) [22-011910]
 
