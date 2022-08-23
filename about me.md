@@ -24,7 +24,8 @@ TOEIC 940 (Oct. 2018) - Expired
 
 [Certified Financial Risk Manager (Aug. 2022)](https://license.kofia.or.kr/)
 
-Chartered Financial Analyst Level 1 Candidate (2023) - Expected to take an exam on Feb 2023
+[Chartered Financial Analyst Level 1 Candidate (2023)](https://www.cfainstitute.org/?frmLogin=1)
+  - Expected to take an exam on Feb 2023
 
 &nbsp;
 
