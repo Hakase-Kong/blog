@@ -50,7 +50,7 @@ Chartered Financial Analyst Level 1 Candidate (2023) - Expected to take an exam 
 
 == Volunteering == (111 hours in total (2017-2021))
 
-[Translator of Special Olympics Abudabi 2019 (2019)](https://www.abudhabi2019.org/)
+[Translator of Special Olympics Abu dahbi 2019 (2019)](https://www.abudhabi2019.org/)
   - Voluenteered for translating the guidelines of each sport manual for athletes and coaches
 
 [Served Military Service at Republic of Korean Army (Apr. 2019 - Nov. 2020)](https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%84%EA%B8%B0%EA%B3%84%ED%99%94%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8)
