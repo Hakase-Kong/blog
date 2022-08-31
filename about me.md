@@ -79,16 +79,19 @@ Education voluenteer for middle school and high school students who are sufferin
 [(DB GAPS) Constructing Portfolio (2022)](https://gaps.dbfoundation.or.kr/)
   - Using R, Rstudio
   - [Submissions](https://drive.google.com/drive/u/0/folders/11TYBuM-2Ux8GH6Aemz3ZLDWSqBbE_LMH)
-  - Progressing...
+  - Preliminary contest ranking: 106/659 (top 15.25%)
+  - Waiting for Final contest
 
 [(SKKU QUANT) Constructing Portfolio (2022)](https://sites.google.com/view/skku-sp-rootn-global-quant-inv/%ED%99%88)
   - Using R, Rstudio
   - [Submissions](https://drive.google.com/drive/folders/1eAnqaoQdaUHuADCjw___wUoOmjpRDFp9)
+  - Participated in preliminary contest
 
 [(FSI Data Challenge 2022) Segmentizing the customer and constucting portfolios using bigdata (2022)](https://www.datachallenge2022.com/)
   - Using R, Rstudio
   - [Submissions](https://drive.google.com/drive/u/0/folders/1XfwEQlRH6Tqhq2q4b8AxKOE4SW-CJV9I)
-  - Passed a preliminary contest and now waiting for the result
+  - Passed a preliminary and fianl contest (Became Finalists)
+  - Working for presentation
 
 GPA: 4.01/4.5(Total), 4.1/4.5(Major)
 
