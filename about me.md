@@ -5,12 +5,18 @@ permalink: /about me/
 ---
 
 
-== Certification ==
+== Foreign Language ==
 
 [National Certified Chinese Characters Level Tests](https://www.hanja.re.kr/)
   - 韓國語文會 漢字能力檢定試驗 國家公認 3級 (2007) [36-654-0030]
   - 韓國語文會 漢字能力檢定試驗 國家公認 2級 (2010) [47-387-0001]
     - 第 17會 蘭汀奬學生 (2級)
+
+[TOEIC 940 (Oct. 2018) - Expired](https://www.toeic.co.kr/)
+
+&nbsp;
+
+== Certification & Nomination ==
 
 [Nominated as Power Intellectual on Mathmatics (10th, 2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
 
@@ -18,9 +24,7 @@ permalink: /about me/
 
 [Passed 32nd MaeKyung Test (Feb. 2016) [MK32-3182897] - Expired](https://exam.mk.co.kr/)
 
-[Passed TESAT (Mar. 2016) - Expired](http://www.tesat.or.kr/)
-
-[TOEIC 940 (Oct. 2018) - Expired](https://www.toeic.co.kr/)
+[Passed 33rd TESAT (Mar. 2016) - Expired](http://www.tesat.or.kr/)
 
 [Passed 20th Certified Research Analyst (Jul. 2022) [22-011910]](https://license.kofia.or.kr/)
 
