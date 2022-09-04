@@ -14,17 +14,17 @@ permalink: /about me/
 
 [Nominated as Power Intellectual on Mathmatics (10th, 2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
 
-[Passed Teen-Maekyung Test (14th, May. 2015) - Expired](https://exam.mk.co.kr/)
+[Passed 14th Teen-Maekyung Test (May. 2015) - Expired](https://exam.mk.co.kr/)
 
-[Passed MaeKyung Test (32nd, Feb. 2016) [MK32-3182897] - Expired](https://exam.mk.co.kr/)
+[Passed 32nd MaeKyung Test (Feb. 2016) [MK32-3182897] - Expired](https://exam.mk.co.kr/)
 
 [Passed TESAT (Mar. 2016) - Expired](http://www.tesat.or.kr/)
 
 [TOEIC 940 (Oct. 2018) - Expired](https://www.toeic.co.kr/)
 
-[Certified Research Analyst (20th, Jul. 2022) [22-011910]](https://license.kofia.or.kr/)
+[Passed 20th Certified Research Analyst (Jul. 2022) [22-011910]](https://license.kofia.or.kr/)
 
-[Certified Financial Risk Manager (14th, Aug. 2022) [22-012065]](https://license.kofia.or.kr/)
+[Passed 14th Certified Financial Risk Manager (Aug. 2022) [22-012065]](https://license.kofia.or.kr/)
 
 [Chartered Financial Analyst Level 1 Candidate (2023)](https://www.cfainstitute.org/?frmLogin=1)
   - Expected to take an exam on Feb 2023
