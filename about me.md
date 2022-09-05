@@ -54,18 +54,6 @@ permalink: /about me/
 
 &nbsp;
 
-== Volunteering == (111 hours in total (2017-2021))
-
-[Translator of Special Olympics Abu dahbi 2019 (2019)](https://www.abudhabi2019.org/)
-  - Voluenteered for translating the guidelines of each sport manual for athletes and coaches
-
-[Served Military Service at Republic of Korean Army (Apr. 2019 - Nov. 2020)](https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%84%EA%B8%B0%EA%B3%84%ED%99%94%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8)
-  - The Capital Mechanized Infantry Devision, The 1st Mechanized Infantry Brigade
-
-Education voluenteer for middle school and high school students who are suffering from COVID-19 (2020)
-
-&nbsp;
-
 == Project ==
 
 [(Integrative Core) Samsung Electronics Business Analysis Report (2021)](https://drive.google.com/drive/u/0/folders/19zeUHOzvNOISdvsLMdS434SoXj4rX0VE)
@@ -97,6 +85,18 @@ Education voluenteer for middle school and high school students who are sufferin
   - Working for presentation..
 
 GPA: 4.01/4.5(Total), 4.1/4.5(Major)
+
+&nbsp;
+
+== Volunteering == (111 hours in total (2017-2021))
+
+[Translator of Special Olympics Abu dahbi 2019 (2019)](https://www.abudhabi2019.org/)
+  - Voluenteered for translating the guidelines of each sport manual for athletes and coaches
+
+[Served Military Service at Republic of Korean Army (Apr. 2019 - Nov. 2020)](https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%84%EA%B8%B0%EA%B3%84%ED%99%94%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8)
+  - The Capital Mechanized Infantry Devision, The 1st Mechanized Infantry Brigade
+
+Education voluenteer for middle school and high school students who are suffering from COVID-19 (2020)
 
 &nbsp;
 
