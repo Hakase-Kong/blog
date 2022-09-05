@@ -10,6 +10,9 @@
 - title: Naver
   url: https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D
   icon: fas fa-book
+- title: Naver Blog
+  url: https://blog.naver.com/hakase_kong
+  icon: fas fa-area-chart
 - title: Sungkyunkwan
   url: https://www.skku.edu/skku/index.do
   icon: fas fa-user-graduate
