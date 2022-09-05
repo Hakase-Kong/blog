@@ -4,6 +4,25 @@ title: About me
 permalink: /about me/
 ---
 
+== Education ==
+
+[Graduated Haneul Academy 4th (2016)](http://haneul.hs.kr/)
+
+[Entered Sungkyunkwan University (2017)](https://www.skku.edu/skku/index.do)
+  - [[Bachelor] Global Business Administration (GBA)](https://globalbiz.skku.edu/gba/index.do)
+
+[Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
+  - Academic Excellent Scholarship (2017 Spring)
+  - Academic Excellent Scholarship (2021 Fall)
+  - Course taken
+    - Financial Management, Corporate Finance, Investments
+    - Behavioral Finance & Fintech, Derivative Securities and Risk Managements
+    - International Finance, Current Topics in Finance: Hedge Fund and Data Science
+    - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
+    - Microeconomics, Macroeconomics
+    - Financial Accounting, Intermediate Accounting I, Managerial Accounting
+
+&nbsp;
 
 == Foreign Language ==
 
@@ -32,26 +51,6 @@ permalink: /about me/
 
 [Chartered Financial Analyst Level 1 Candidate (2023)](https://www.cfainstitute.org/?frmLogin=1)
   - Expected to take an exam on Feb 2023
-
-&nbsp;
-
-== Education ==
-
-[Graduated Haneul Academy 4th (2016)](http://haneul.hs.kr/)
-
-[Entered Sungkyunkwan University (2017)](https://www.skku.edu/skku/index.do)
-  - [[Bachelor] Global Business Administration (GBA)](https://globalbiz.skku.edu/gba/index.do)
-
-[Attending Sungkyunkwan University (2017 ~ Now)](https://www.skku.edu/skku/index.do)
-  - Academic Excellent Scholarship (2017 Spring)
-  - Academic Excellent Scholarship (2021 Fall)
-  - Course taken
-    - Financial Management, Corporate Finance, Investments
-    - Behavioral Finance & Fintech, Derivative Securities and Risk Managements
-    - International Finance, Current Topics in Finance: Hedge Fund and Data Science
-    - Linear Algebra, Quantitative Analysis for Business: Math for Machine Learning
-    - Microeconomics, Macroeconomics
-    - Financial Accounting, Intermediate Accounting I, Managerial Accounting
 
 &nbsp;
 
