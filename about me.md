@@ -22,6 +22,8 @@ permalink: /about me/
     - Microeconomics, Macroeconomics
     - Financial Accounting, Intermediate Accounting I, Managerial Accounting
 
+GPA: 4.01/4.5(Total), 4.1/4.5(Major)
+
 &nbsp;
 
 == Foreign Language ==
@@ -83,8 +85,6 @@ permalink: /about me/
   - [Submissions](https://drive.google.com/drive/u/0/folders/1XfwEQlRH6Tqhq2q4b8AxKOE4SW-CJV9I)
   - Passed a preliminary and fianl contest → Became Finalists
   - Working for presentation..
-
-GPA: 4.01/4.5(Total), 4.1/4.5(Major)
 
 &nbsp;
 
