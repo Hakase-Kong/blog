@@ -47,9 +47,9 @@ GPA: 4.01/4.5(Total), 4.1/4.5(Major)
 
 [Passed 33rd TESAT (Mar. 2016) - Expired](http://www.tesat.or.kr/)
 
-[Passed 20th Certified Research Analyst (Jul. 2022) [22-011910]](https://license.kofia.or.kr/)
+[Passed 20th Certified Research Analyst (Jul. 2022) [22-011910]](https://drive.google.com/file/d/1E7aTQQuBXjOr1gv7KxBRDCV7SMxfGomi/view?usp=sharing)
 
-[Passed 14th Certified Financial Risk Manager (Aug. 2022) [22-012065]](https://license.kofia.or.kr/)
+[Passed 14th Certified Financial Risk Manager (Aug. 2022) [22-012065]](https://drive.google.com/file/d/18QRY3EbDB3a8gRdlH5UUO6BovW9WydbA/view?usp=sharing)
 
 [Chartered Financial Analyst Level 1 Candidate (2023)](https://www.cfainstitute.org/)
   - Expected to take an exam on Feb 2023
