@@ -76,8 +76,8 @@ GPA: 4.01/4.5(Total), 4.1/4.5(Major)
   - [Preliminary contest ranking: 106/659 (top 15.25%) → Became Finalists (Top 104 team)](https://gaps.dbfoundation.or.kr/Community/NoticeView?idx=1895)
   - Final contest ranking: 24/95 → Participated in Final Presentation [(Youtube Live Broadcast)](https://youtu.be/PrQhydbzpfg)
 
-[(SKKU QUANT) Constructing Portfolio (2022)](https://sites.google.com/view/skku-sp-rootn-global-quant-inv/home?authuser=0)
-  - Team Name: Zeta_phi
+[(RootN S&P SKKU Quant Strategy) Constructing Portfolio (2022)](https://sites.google.com/view/skku-sp-rootn-global-quant-inv/home?authuser=0)
+  - [Team Name: Zeta_phi](https://drive.google.com/file/d/1Us-HICuVLJ0j48oe7A-iNT1JlJQ0lAwV/view?usp=sharing)
   - Used R, Rstudio
   - [Submissions](https://drive.google.com/drive/folders/0B7i2r78BHshjfjBZNV9weDdXUDRldzNCZHR1eGhDcnUwVW1heGpZLVFiaWtRQVFXdmkwVnM?resourcekey=0-F2rGu7YjTQ8ADZf2YuiH6A&usp=sharing)
   - Participated in preliminary contest
