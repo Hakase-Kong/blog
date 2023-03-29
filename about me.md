@@ -57,25 +57,25 @@ permalink: /about me/
 
 == Project ==
 
-[(Integrative Core) Samsung Electronics Business Analysis Report (2021)](https://drive.google.com/drive/u/0/folders/19zeUHOzvNOISdvsLMdS434SoXj4rX0VE)
+[(Integrative Core) Samsung Electronics Business Analysis Report (2021)](https://drive.google.com/drive/folders/0B7i2r78BHshjflR0WFNvOXNnOWM3MlRRZmhmVVlQNkJ5TkJWTW1oVlZpeWJaS0JNQjNzQmM?resourcekey=0-iznMBn2SYf9lSvjkMm23FQ&usp=sharing)
   - [Presentation](https://www.youtube.com/watch?v=nhrtQ1xjOwE)
-  - [Marketing, Operation Managements, Corporate Finance, Strategic Management](https://drive.google.com/drive/u/0/folders/10feEOF8-VsTsIQiJUbDFuNO35d6eDvgF)
+  - [Marketing, Operation Managements, Corporate Finance, Strategic Management](https://drive.google.com/drive/folders/0B7i2r78BHshjfjRsSkpEdkgyWC0yLXVvTFBxQWM1OWVOZ0Y3bmlkS2l4RnlMV1htWEZTZ2M?resourcekey=0-I-CjwiyDchHuXneXGO9Nkg&usp=sharing)
   - Won 1st place in Corporate Finance Analysis among 22 groups (Prof. Jong-min Oh)
 
-[(Relative valuation) Kakao Bank Investment Report (2021)](https://drive.google.com/drive/u/0/folders/1O006oz5F_EOWeHdeWF4KecSSBMoK2oFD)
-  - [Presentation](https://www.youtube.com/watch?v=kCV5_G1Vxtc&t=312s)
+[(Relative valuation) Kakao Bank Investment Report (2021)](https://drive.google.com/drive/folders/0B7i2r78BHshjfldYQl9jV09mNVdiQTJRV3JpTXFzYTJESTI0Mm1IdnVJLUpnSXV2UWNVREU?resourcekey=0-V4Bq1rRYtFpSiL0v4HTyXQ&usp=sharing)
+  - [Presentation](https://www.youtube.com/watch?v=kCV5_G1Vxtc&t=312s) Restoring the link right now :(
 
-[(Hedge Fund Strategy) Value + Quality Factor Portfolio Backtesting & Presentation (R, Rstudio) (2021)](https://drive.google.com/drive/folders/14Z-Hm9qNJoXK75Q2n1eGCQvT5DNJ-suw?usp=sharing)
+[(Hedge Fund Strategy) Value + Quality Factor Portfolio Backtesting & Presentation (R, Rstudio) (2021)](https://drive.google.com/drive/folders/0B7i2r78BHshjfndOak1OVXRBX0V4bG8xNVpLQWU2dDF6djUtS1hKRTlMQ21lQmJQd1JYMWc?resourcekey=0-wq2s1mys9PaUGKGMSCXR-w&usp=sharing)
   - Factor: NCAV/BV, Net-Ic/BV, GPA/BV (5, 10, 20, 70 years backtesting)
 
 [(DB GAPS 2022) Constructing Portfolio (2022)](https://gaps.dbfoundation.or.kr/)
-  - [Team Name: 닥트리오](https://drive.google.com/file/d/14CSIH1JDAus4fg_V7HGEwxqBpw4AZbWt/view?usp=sharing)
+  - [Team Name: 닥트리오](https://drive.google.com/drive/folders/0B7i2r78BHshjfjlSa2xmbGlRYWgyc0hUQk1GTFQwUVRveF9uaE5SOXhRTzdxcUxmMTZmM00?resourcekey=0-TmqcwjYabwtpQhbKHJxJyQ&usp=sharing)
   - Used R, Rstudio
-  - [Submissions](https://drive.google.com/file/d/14CSIH1JDAus4fg_V7HGEwxqBpw4AZbWt/view?usp=share_link)
+  - [Submissions](https://drive.google.com/drive/folders/1l6eGFZyyCdr-Jjp4fyZoJOO7CRs3TZ0X?usp=sharing)
   - [Preliminary contest ranking: 106/659 (top 15.25%) → Became Finalists (Top 104 team)](https://gaps.dbfoundation.or.kr/Community/NoticeView?idx=1895)
   - Final contest ranking: 24/95 → Participated in Final Presentation [(Youtube Live Broadcast)](https://youtu.be/PrQhydbzpfg)
 
-[(RootN S&P SKKU Quant Strategy) Constructing Portfolio (2022)](https://sites.google.com/view/skku-sp-rootn-global-quant-inv/home?authuser=0)
+[(RootN S&P SKKU Quant Strategy) Constructing Portfolio (2022)](https://drive.google.com/drive/folders/0B7i2r78BHshjfjBZNV9weDdXUDRldzNCZHR1eGhDcnUwVW1heGpZLVFiaWtRQVFXdmkwVnM?resourcekey=0-F2rGu7YjTQ8ADZf2YuiH6A&usp=sharing)
   - [Team Name: Zeta_phi](https://drive.google.com/file/d/1Us-HICuVLJ0j48oe7A-iNT1JlJQ0lAwV/view?usp=sharing)
   - Used R, Rstudio
   - [Submissions](https://drive.google.com/drive/folders/0B7i2r78BHshjfld3M09vTWlpeHhMYm80XzRhRlBjbDl1czZFUFFDY3VRRGJIdWItczg3RnM?resourcekey=0-zPX-zJWolUeE2XC9S2DLRw&usp=sharing)
