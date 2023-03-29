@@ -52,7 +52,9 @@ permalink: /about me/
   - Expected to take an exam on Aug 2023
 
 <a class="page-link" href="https://basno.com/pdpg4atx"><img src="./pdpg4atx.png" width="25%" height="25%"/></a>
-<a href="https://basno.com/pdpg4atx" target="_blank"><img src="./pdpg4atx.png" width="25%" height="25%"/></a>
+<a href="https://basno.com/pdpg4atx" target="_blank">
+  <img src="./pdpg4atx.png" width="100%" height="100%"/>
+</a>
 [![](pdpg4atx.png)](https://basno.com/pdpg4atx)
 
 &nbsp;
