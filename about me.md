@@ -52,6 +52,7 @@ permalink: /about me/
   - Expected to take an exam on Aug 2023
 
 <a class="page-link" href="https://basno.com/pdpg4atx"><img src="./pdpg4atx.png" width="25%" height="25%"/></a>
+<a class="page-link" href="https://basno.com/pdpg4atx"><img src="./100324이찬빈_1.jpg" width="25%" height="25%"/></a>
 
 &nbsp;
 
