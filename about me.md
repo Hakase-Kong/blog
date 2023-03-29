@@ -50,6 +50,7 @@ permalink: /about me/
 
 [Chartered Financial Analyst Level 2 Candidate (2023)](https://www.cfainstitute.org/)
   - Expected to take an exam on Aug 2023
+[/pdpg4atx.png](https://basno.com/pdpg4atx)
 
 &nbsp;
 
