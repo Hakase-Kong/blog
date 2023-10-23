@@ -16,9 +16,6 @@
 - title: Sungkyunkwan
   url: https://www.skku.edu/skku/index.do
   icon: fas fa-user-graduate
-- title: Sungkyunkwan
-  url: https://www.skku.edu/skku/index.do
-  icon: fas fa-user-graduate
 - title: LinkedIn
   url: https://www.linkedin.com/in/chanbin/
-  icon: fa fa-linkedin-square
+  icon: fab fa-linkedin
