@@ -36,7 +36,7 @@ permalink: /about me/
 
 == Certification & Nomination ==
 
-[[네이버 10대 파워지식in] (2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
+[[네이버 제 10대 파워지식in] (2013)](https://kin.naver.com/profile/index.naver?u=SFYWO6QJg73UnGImd%2Fhl%2F%2Bw7qNk2f9qn6NSbKRv0GN4%3D)
 
 [Passed 14th Teen-Maekyung Test (May. 2015) - Expired](https://exam.mk.co.kr/)
 
@@ -48,7 +48,7 @@ permalink: /about me/
 
 [Passed 14th Certified Financial Risk Manager (Aug. 2022) [22-012065]](https://drive.google.com/file/d/18QRY3EbDB3a8gRdlH5UUO6BovW9WydbA/view?usp=sharing)
 
-[Chartered Financial Analyst Level 3 Candidate (2024)](https://www.cfainstitute.org/)
+[Chartered Financial Analyst Level 3 Passed (Feb. 2024)](https://www.cfainstitute.org/)
 
 [![](pdpg4atx.png)](https://basno.com/pdpg4atx)
 [![](4933dggq.png)](https://basno.com/4933dggq)
