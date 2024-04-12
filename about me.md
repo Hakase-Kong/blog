@@ -48,7 +48,7 @@ permalink: /about me/
 
 [Passed 14th Certified Financial Risk Manager (Aug. 2022) [22-012065]](https://drive.google.com/file/d/18QRY3EbDB3a8gRdlH5UUO6BovW9WydbA/view?usp=sharing)
 
-[Chartered Financial Analyst Level 3 Passed (Feb. 2024)](https://www.cfainstitute.org/)
+[Passed Chartered Financial Analyst Level 3 (Feb. 2024)](https://www.cfainstitute.org/)
 
 [![](pdpg4atx.png)](https://basno.com/pdpg4atx)
 [![](4933dggq.png)](https://basno.com/4933dggq)
