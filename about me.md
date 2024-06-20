@@ -50,6 +50,8 @@ permalink: /about me/
 
 [Passed Chartered Financial Analyst Level 3 (Feb. 2024)](https://www.cfainstitute.org/)
 
+[Passed 38th Certified Investment Manager (Jun. 2024)] [24-010842] (https://drive.google.com/file/d/1nCplUf2T3XHoKNIfAK3M0xilq3xtbmNu/view?usp=drive_link)
+
 [![](pdpg4atx.png)](https://basno.com/pdpg4atx)
 [![](4933dggq.png)](https://basno.com/4933dggq)
 
